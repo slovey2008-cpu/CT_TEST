@@ -5,7 +5,8 @@
 
 def main():
     """主函数"""
-    print("Hello, World!")
+    for i in range(3):
+        print("Hello, World!")
     return 0
 
 if __name__ == "__main__":
